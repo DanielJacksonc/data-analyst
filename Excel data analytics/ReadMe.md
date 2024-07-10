@@ -40,12 +40,18 @@ We check for cells that won't contribute to our analysis and delete the Product 
 4. Format cells into categories like currency and comma-separated values.
 
 #### Visualizing Data
+![Alt Text](Picture1.png)
 
 Duplicate the table to separate Google and Facebook for better visuals.
+![Alt Text](Picture2.png)
 1. Visualize data by device, age, and campaign platform.
+![Alt Text](Picture3.png)
 2. Use a stacked bar chart to show visualizations.
+![Alt Text](Picture4.png)
 3. View the Dashboard table for visualization.
-
+![Alt Text](Picture5.png)
+4. Daily CPC reports for Google and Facebook
+![Alt Text](Picture7.png)
 ## Conclusion
 
 1. The age group with the highest impressions is between 25-34, with over $564,000 in Facebook, and the most CPA (Cost Per Action) platform is Google.
